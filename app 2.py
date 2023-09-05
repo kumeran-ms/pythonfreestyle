@@ -1,5 +1,5 @@
-for i in range(1,500):
+for i in range(1,100):
     print("generated: ",i)
 
 
-# python app.py
+# python app2.py
